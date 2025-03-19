@@ -1,0 +1,110 @@
+{
+    "player_position": [
+        0,
+        2
+    ],
+    "building": {
+        "n_floors": 3,
+        "n_rooms": 5,
+        "floors": [
+            {
+                "rooms": [
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": true
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    }
+                ]
+            },
+            {
+                "rooms": [
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 0,
+                        "blocked": false,
+                        "player_in_room": false
+                    }
+                ]
+            },
+            {
+                "rooms": [
+                    {
+                        "zombies": 3,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 1,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 4,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 2,
+                        "blocked": false,
+                        "player_in_room": false
+                    },
+                    {
+                        "zombies": 2,
+                        "blocked": false,
+                        "player_in_room": false
+                    }
+                ]
+            }
+        ]
+    },
+    "round": 0,
+    "special_actions": [
+        [
+            "Limpiar habitacion",
+            false
+        ],
+        [
+            "Bloquear habitacion",
+            false
+        ]
+    ]
+}
