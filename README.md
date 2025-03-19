@@ -25,7 +25,7 @@
 ---
 
 ## **Introducción**
-Este proyecto es una simulación interactiva en la que el jugador debe sobrevivir a una invasión de zombies en un edificio. El jugador puede moverse entre habitaciones, bloquear puertas y limpiar habitaciones de zombies. El juego se desarrolla por rondas, y en cada ronda los zombies se mueven y aparecen nuevos en el primer piso. El fin es intentar llegar al mayor número de rondas.
+Este proyecto es una simulación interactiva en la que el jugador debe sobrevivir a una invasión de zombies en un edificio. El jugador puede bloquear habitaciones y limpiar habitaciones de zombies. El juego se desarrolla por rondas, y en cada ronda los zombies se mueven y aparecen nuevos en el primer piso. El fin es intentar llegar al mayor número de rondas.
 
 ---
 
