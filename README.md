@@ -143,5 +143,5 @@ El juego permite guardar y cargar el estado actual. Las funciones `save_game` y 
 1. Ejecuta `main.py` para iniciar el juego.
 2. Ingresa la cantidad de pisos y habitaciones por piso.
 3. Selecciona la posición del jugador.
-4. Usa el menú principal para realizar acciones especiales, guardar o cargar el juego. (Seleccionando siempre el número de la izquierda de aquello que quieres realizar)
+4. Usa el menú principal para realizar acciones especiales, guardar, cargar el juego u otro. (Seleccionando siempre el número de la izquierda de aquello que quieres realizar)
 5. ¡Sobrevive!
